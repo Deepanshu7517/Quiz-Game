@@ -11,7 +11,7 @@ export default {
         "cinzel": ["cinzel"]
       },
       backgroundImage: {
-        'appBackground': "url('./src/assets/background.png')",
+        'quiz-bg': "url('./src/public/background.png')",
       },
     },
   },

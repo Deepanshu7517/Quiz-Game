@@ -47,7 +47,7 @@ export default function Home() {
             {!isPlaying ?
                 <>
                     <h1 className="text-[#D5B387] font-cinzel text-6xl font-semibold mt-10">Time Traveler's</h1>
-                    <h1 className="text-[#D5B387] font-cinzel text-6xl font-semibold mb-5">Travia as</h1>
+                    <h1 className="text-[#D5B387] font-cinzel text-6xl font-semibold mb-5">Travia</h1>
                     <section className="h-2/4 w-full">
                         <article className="h-full w-full flex flex-col items-center font-poppins">
                             <h2 className="question bg-[#CFAC81] h-1/6 flex justify-center items-center text-3xl font-semibold px-8 rounded-full">Who invented bulb?</h2>

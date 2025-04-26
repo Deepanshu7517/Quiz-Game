@@ -1,5 +1,4 @@
-import * as React from 'react';
-import { useState, useEffect, useContext, context } from 'react';
+import { useState } from 'react';
 import { questionArray } from '../database/questions';
 import { useUser } from '../context/contextAPI';
 export default function Home() {

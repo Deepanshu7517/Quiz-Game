@@ -16,7 +16,7 @@ export default function App() {
         Your browser does not support the video tag.
       </video>
       {/* Content Layer with Background Image on top of video */}
-      <div className="App relative z-10 bg-quiz-bg bg-fixed md:bg-cover lg:bg-contain bg-no-repeat bg-center w-full h-full">
+      <div className="App relative z-10 bg-[url('./src/public/background.png')] bg-fixed md:bg-cover lg:bg-contain bg-no-repeat bg-center w-full h-full">
         <Navbar />
         <Outlet />
       </div>
